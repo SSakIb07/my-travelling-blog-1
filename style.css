@@ -22,7 +22,7 @@ h1{
          text-align: left;
      }.nola{
          text-align:justify;
-         border:2px solid crimson;
+         border:8px solid crimson;
          border-radius: 7px;
          padding: 10px;
          margin: 70px 30px;
@@ -42,5 +42,10 @@ h1{
          color: darkmagenta;
         
 
+<<<<<<< HEAD
+=======
+     }#par{
+         background-color: darkmagenta;
+>>>>>>> setu
      }
      }

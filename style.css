@@ -27,5 +27,20 @@ h1{
          padding: 10px;
          margin: 70px 30px;
 
+     }.nolaa{
+         text-align: justify;
+         text-align:left
+         border:0%;
+         
+         
+        
+     }#let{
+         text-align:left;
+         background-color: cyan;
+         padding: 10px;
+         text-align: justify;
+         color: darkmagenta;
+        
+
      }
      }
